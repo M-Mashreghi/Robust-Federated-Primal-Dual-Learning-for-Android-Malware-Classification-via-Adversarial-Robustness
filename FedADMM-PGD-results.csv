@@ -1,0 +1,2 @@
+,Dataset,num of round,num of clients,global_acc,global_loss,global_f1,global_precision,global_recall,global_auc,global_fpr
+0,Drebin,100,10,0.9655618351063828,0.9615937307476997,0.9333654223324198,0.9709652819098571,0.9362398557258793,0.9853117558432111,0.06376014427412076
